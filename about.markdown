@@ -4,15 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Leonardo smile is a non-profit charity focused on supporting orphan children. After the experience of the sudden loss of their 7 months old child Leonardo, Vu Lan Huong and Enrico Massa decided to start the charity on October 2020.
+The charity also aims to disseminate medical research to parents regarding the health of young children in order to improve the level of understanding and care of parents for their children.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+In the year 2020, the charity received the following contributions:
+
+| Contributions   | Amount [SGD] |
+|----------|-------:|
+| Donations at the funeral| $6400 |
+| Donation by Enrico |   $5000 |
 
 
-[jekyll-organization]: https://github.com/jekyll
+The contributions have been utilised in the following way
+
+| Expenses   | Amount [SGD] |
+|----------|-------:|
+| Domains and website | $70 |
+| Monthly contribution to orphanage |   $? |
