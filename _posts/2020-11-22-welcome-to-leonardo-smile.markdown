@@ -9,7 +9,7 @@ categories: jekyll update
 Welcome to Leonardo smile
 
 
-![Leonardo smile](/assets/smile.JPG)
+![Leonardo smile](/images/smile.JPG)
 
 
 
