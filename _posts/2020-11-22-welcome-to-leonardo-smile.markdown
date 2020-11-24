@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Leonardo smile!"
 date:   2020-11-22 20:07:43 +0800
-categories: jekyll update
+categories: welcome
 ---
 
 
