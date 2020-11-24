@@ -27,6 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://www.leonardosmile.org/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
+remote_theme: broccolini/swiss
 theme: jekyll-swiss
 theme_color: white
 plugins:
