@@ -15,7 +15,8 @@ Leonardo is a great smiler. His smile can brighten up even the darkest moments i
 Vu Lan Huong (Pinky) and Enrico Massa
 
 
-![Leonardo smile](/images/todaysleep.jpg)
+![Leonardo big boss](/images/bigboss.jpg)
+
 
 
 

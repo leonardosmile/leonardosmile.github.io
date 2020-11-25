@@ -1,12 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Leonardo's smile!"
+title:  "A loving home for every child"
 date:   2020-11-22 20:07:43 +0800
 categories: welcome
 ---
-
-
-## A loving home for every child.
 
 Almost 30 years ago, I went to a primary school in the suburb of Hanoi. Some of my classmates were a few years older than me, but somehow, they all seemed lonely and sad. As a sociable person, I made the first move to make friends with them. I then got to know that they had lost their parents and were staying in an orphanage nearby, the SOS Children’s Village Vietnam.
 
@@ -25,11 +22,7 @@ My friends back in primary school were the first generation receiving alternativ
 Vu Lan Huong (Pinky)
 
 
-
-
-![Leonardo smile](/images/bigboss.jpg)
-
-
+![Leonardo slept through the night](/images/todaysleep.jpg "Today Leonardo slept through the night!")
 
 <!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
