@@ -15,6 +15,9 @@ Leonardo is a great smiler. His smile can brighten up even the darkest moments i
 Vu Lan Huong (Pinky) and Enrico Massa
 
 
+![Leonardo smile](/images/todaysleep.jpg)
+
+
 
 <!-- Leonardo smile is a non-profit charity focused on supporting orphan children. After the experience of the sudden loss of their 7 months old child Leonardo, Vu Lan Huong and Enrico Massa decided to start the charity on October 2020.
 The charity also aims to disseminate medical research to parents regarding the health of young children in order to improve the level of understanding and care of parents for their children.

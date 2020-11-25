@@ -6,7 +6,7 @@ categories: welcome
 ---
 
 
-A loving home for every child
+## A loving home for every child.
 
 Almost 30 years ago, I went to a primary school in the suburb of Hanoi. Some of my classmates were a few years older than me, but somehow, they all seemed lonely and sad. As a sociable person, I made the first move to make friends with them. I then got to know that they had lost their parents and were staying in an orphanage nearby, the SOS Children’s Village Vietnam.
 
@@ -27,7 +27,7 @@ Vu Lan Huong (Pinky)
 
 
 
-![Leonardo smile](/images/smile.JPG)
+![Leonardo smile](/images/bigboss.jpg)
 
 
 
