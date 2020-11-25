@@ -1,12 +1,30 @@
 ---
 layout: post
-title:  "Welcome to Leonardo smile!"
+title:  "Welcome to Leonardo's smile!"
 date:   2020-11-22 20:07:43 +0800
 categories: welcome
 ---
 
 
-Welcome to Leonardo smile
+A loving home for every child
+
+Almost 30 years ago, I went to a primary school in the suburb of Hanoi. Some of my classmates were a few years older than me, but somehow, they all seemed lonely and sad. As a sociable person, I made the first move to make friends with them. I then got to know that they had lost their parents and were staying in an orphanage nearby, the SOS Children’s Village Vietnam.
+
+In the following months, they would invite me to their new homes in the village compound. I still have vivid memories of that place. There were beautiful houses with red roofs - much bigger and nicer than my little house. Almost 10 kids of different ages lived together under the care of a woman they all called “mother”. I also remember playing hide-and-seek in the garden full of flowers blooming.
+
+Although nothing could replace their biological families, alternative care at the village not only provided my friends with food and shelter, but also a loving home, a caring mother, and lovely siblings. I was still a kid at that time, but I could feel it with all my heart.
+
+A few months later, my friends were transferred to a newly-built school inside their village compound to continue their studies. At that time, telephones were a rarity in Vietnam, so I lost contact with them since then.
+
+Fast forward to 2019, I came across a friend’s Facebook post in which she talked about her monthly donations to the SOS Children’s Villages Vietnam. All the beautiful memories with my childhood friends came back to me. Feeling deeply connected to that cause, I signed up to become a frequent sponsor too.
+
+In October 2020, devastated by the sudden loss of our son Leonardo, my husband and I wanted to turn our tragedy into a legacy. We decided to donate all the cash offerings at his memorial to support underprivileged kids at the SOS Children’s Villages Vietnam. We are also committed to making additional contributions once the cash donations from friends and families are fully utilised.
+
+My friends back in primary school were the first generation receiving alternative care in the SOS Children’s Villages Vietnam. Almost 30 years later, I am truly honoured to embark on a journey to help more children like my childhood friends to have a safe and loving environment to stay. And Leonardo now has many brothers and sisters whom he can watch over from the sky.
+
+Vu Lan Huong (Pinky)
+
+
 
 
 ![Leonardo smile](/images/smile.JPG)
