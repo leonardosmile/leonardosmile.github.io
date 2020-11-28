@@ -13,13 +13,13 @@ Since its establishment, the SOS Children’s Villages Vietnam has received almo
 
 Oftentimes, we don’t recognise how a small act of generosity can change the course of someone’s life. With as little as VND300,000 (or SGD17) per month, you can help provide food, shelter, and education for an orphan in one of 17 SOS villages across Vietnam.
 
-As of November 2020, we have received a total of VND177,345,000 (or SGD10,330) in honour of Leonardo. Enrico has made an additional VND 86,000,000 (or SGD5,000) contribution to the fund.
+As of November 2020, we have received a total of VND203,476,000 (or SGD11,830) in honour of Leonardo. Enrico has made an additional VND 86,000,000 (or SGD5,000) contribution to the fund.
 
 | Contributions   | Amount [SGD] |
 |----------|-------:|
-| Donations at the funeral| $10330 |
+| Donations in memory of Leonardo | $11830 |
 | Donation by Enrico |   $5000 |
-| Total | $15330|
+| Total | $16830|
 
 We’ve started donating VND3,000,000 (or SGD170) per month for two villages, in Hanoi and Phu Tho province.
 
