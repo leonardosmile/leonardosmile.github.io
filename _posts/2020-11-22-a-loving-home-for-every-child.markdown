@@ -13,7 +13,7 @@ Although nothing could replace their biological families, alternative care at th
 
 A few months later, my friends were transferred to a newly-built school inside their village compound to continue their studies. At that time, telephones were a rarity in Vietnam, so I lost contact with them since then.
 
-Fast forward to 2019, I came across a friend’s Facebook post in which she talked about her monthly donations to the SOS Children’s Villages Vietnam. All the beautiful memories with my childhood friends came back to me. Feeling deeply connected to that cause, I signed up to become a frequent sponsor too.
+Fast forward to 2019. I came across a friend’s Facebook post in which she talked about her monthly donations to the SOS Children’s Villages Vietnam. All the beautiful memories with my childhood friends came back to me. Feeling deeply connected to that cause, I signed up to become a frequent sponsor too.
 
 In October 2020, devastated by the sudden loss of our son Leonardo, my husband and I wanted to turn our tragedy into a legacy. We decided to donate all the cash offerings at his memorial to support underprivileged kids at the SOS Children’s Villages Vietnam. We are also committed to making additional contributions once the cash donations from friends and families are fully utilised.
 
