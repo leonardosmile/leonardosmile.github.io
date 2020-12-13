@@ -17,7 +17,7 @@ Fast forward to 2019. I came across a friend’s Facebook post in which she talk
 
 In October 2020, devastated by the sudden loss of our son Leonardo, my husband and I wanted to turn our tragedy into a legacy. We decided to donate all the cash offerings at his memorial to support underprivileged kids at the SOS Children’s Villages Vietnam. We are also committed to making additional contributions once the cash donations from friends and families are fully utilised.
 
-My friends back in primary school were the first generation receiving alternative care in the SOS Children’s Villages Vietnam. Almost 30 years later, I am truly honoured to embark on a journey to help more children like my childhood friends to have a safe and loving environment to stay. And Leonardo now has many brothers and sisters whom he can watch over from the sky.
+My friends back in primary school are the first generation receiving alternative care in the SOS Children’s Villages Vietnam. Almost 30 years later, I am truly honoured to embark on a journey to help more children like my childhood friends to have a safe and loving environment to stay. And Leonardo now has many brothers and sisters whom he can watch over from the sky.
 
 Vu Lan Huong (Pinky)
 
