@@ -18,7 +18,7 @@ As of November 2020, we have received a total of VND203,476,000 (or SGD11,830) i
 | Contributions   | Amount [SGD] |
 |----------|-------:|
 | Donations in memory of Leonardo | $11830 |
-| Donation received in December 2020 |   $1764 |
+| Donation received in December 2020 |   $2010 |
 | Donation by Enrico |   $5000 |
 | Total | $18594|
 

@@ -12,3 +12,5 @@ In this spirit, we would like to update you that to date, Leonardo’s Smile Fun
 As the year 2020 draws to a close, we would like to take a moment to thank everyone for your overwhelming support and  generous donations, which will make a huge impact on the lives of underprivileged children in Vietnam. We are also grateful for your help in keeping Leonardo's legacy live on.
 
 Wishing you a season filled with warm and cherished memories. May we all emerge in 2021 more resilient, empathetic, and stronger together.
+
+![Greetings](/images/greetings.jpg)
