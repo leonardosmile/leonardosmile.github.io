@@ -13,4 +13,4 @@ As the year 2020 draws to a close, we would like to take a moment to thank every
 
 Wishing you a season filled with warm and cherished memories. May we all emerge in 2021 more resilient, empathetic, and stronger together.
 
-![Greetings](/images/greetings.jpg)
+![Greetings](/images/greetings.png)
