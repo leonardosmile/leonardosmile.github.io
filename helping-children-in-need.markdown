@@ -20,7 +20,7 @@ As of November 2020, we have received a total of VND203,476,000 (or SGD11,830) i
 | Donations in memory of Leonardo | $11830 |
 | Donation received in December 2020 |   $2010 |
 | Donation by Enrico |   $5000 |
-| Total | $18594|
+| Total | $18840|
 
 We’ve started donating VND3,000,000 (or SGD170) per month for two villages, in Hanoi and Phu Tho province.
 
