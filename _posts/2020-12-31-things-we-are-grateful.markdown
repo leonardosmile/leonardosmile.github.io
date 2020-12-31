@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Things we are grateful in 2020"
+title:  "Things we are grateful for in 2020"
 date:   2020-12-31 10:00:00 +0800
 categories: thanksgiving
 ---
 
 2020 is the year that many of us want to forget but will remember. In this year, our family experienced utmost happiness when Leonardo entered the world in March and deepest sorrow when he was taken away from us seven months later. As we are ushering in 2021, we would like to reflect on what we are grateful for in life:
 
-1. Becoming parents: You never knew we could love someone so much until we became parents. At the same time, we became more vulnerable than ever as even a tiny little thing that happened to our baby could get us on pins and needles. Taking on parenting responsibilities also strengthened our relationship. We worked as a team. We learned beautiful lessons and gained meaningful experiences together. Parenthood transformed us. Parenthood transformed our marriage. Toward a better version.
+1. Becoming parents: We never knew we could love someone so much until we became parents. At the same time, we became more vulnerable than ever as even a tiny little thing that happened to our baby could get us on pins and needles. Taking on parenting responsibilities also strengthened our relationship. We worked as a team. We learned beautiful lessons and gained meaningful experiences together. Parenthood transformed us. Parenthood transformed our marriage. Toward a better version.
 
 2. Creating unforgettable memories with Leonardo: Seven months was very, very short, but we cherished and treasured every moment with him. He never ceased to amaze us with his ability to learn new skills and his curiosity about the world. Nothing can take away those memories and our love for him. His smiles, his giggles, his bright eyes, his tiny hands and feet are forever printed in our hearts. He is and will forever be our angel baby.  
 
