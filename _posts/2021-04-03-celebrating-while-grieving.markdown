@@ -2,7 +2,6 @@
 layout: post
 title:  "Celebrating while grieving"
 date:   2021-04-03 10:00:00 +0800
-categories: thanksgiving
 ---
 
 March was a special month for us as it marked the first year of Leonardo’s birth (It was Pinky’s birth month too!). It was arguably a very tough month for us, knowing that he would never be able to taste his own birthday cakes. But we were showered with genuine care and love from families and friends. Flowers, birthday cards, cake, messages, calls, and donations to our charity fund poured in from all over the world.

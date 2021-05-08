@@ -2,7 +2,6 @@
 layout: post
 title:  "We hit 20k! Happy Year of the Ox"
 date:   2021-02-06 10:00:00 +0800
-categories: thanksgiving
 ---
 
 Tết (Lunar New Year) is just around the corner.
