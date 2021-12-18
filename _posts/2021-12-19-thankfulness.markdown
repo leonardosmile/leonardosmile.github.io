@@ -20,3 +20,5 @@ Since she has not been able to find similar resources in her native language - V
 After Pinky shared this project on her personal Facebook page, an overwhelming support poured in. As of today, we have received more than 750 pre-orders of the books, the majority of which will be donated to hospitals in Vietnam. If you would like to join us in this campaign, please fill up [this form](https://docs.google.com/forms/d/10KDCzU_43N4CJGX6BdCd9p5k7p3pE58SgPmIBXXlOjk/edit) and we will get in touch when the book is available.
 
 To our dear friends and supporters, words cannot express our thankfulness for your kindness and generosity. We wish you a wonderful holiday season and a very happy new year, and can’t wait to reconnect in 2022.
+
+![Card](/images/Season-greetings-2021.png)
