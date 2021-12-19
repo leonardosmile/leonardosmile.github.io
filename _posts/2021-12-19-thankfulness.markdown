@@ -8,7 +8,7 @@ Almost two years into the pandemic, the world is heading toward an endemic “ne
 
 While adapting to the “new normal”, we try to integrate Leonardo’s legacy into our life and be the parents that he would be proud of. Part of this is spreading love and kindness in memory of Leonardo. During the season of giving, we would like to take a moment to express our gratitude for your generous support to Leonardo’s Smile Fund, which was set up right after his passing. We transferred all bereavement money received at his memorial to the fund. Apart from that, we have also made our own contributions and received additional donations from friends all over the world.
 
-As of December 20, Leonardo’s Smile Fund has received a total of SGD26,950 (or VND435,500,000).
+As of December 18, Leonardo’s Smile Fund has received a total of SGD26,950 (or VND435,500,000).
 The fund has disbursed VND97,600,000 (or SGD5,800) to support 11 families in the SOS Children’s Villages in Hanoi, Phu Tho, and Thanh Hoa provinces in Vietnam.
 
 Taking this opportunity, we are also pleased to share about another project that Pinky is working on to honor Leonardo and all babies gone too soon.
