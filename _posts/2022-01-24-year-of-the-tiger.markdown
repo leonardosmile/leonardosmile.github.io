@@ -18,4 +18,4 @@ Last week, we received several handmade New Year greetings’ cards from childre
 As we are ushering in the Year of the Tiger - a natural-born leader who is bold, passionate, and powerful, we wish you all good health, power, and success.
 
 
-![Cards](/images/child-cards.png)
+![Cards](/images/child-cards.jpeg)
