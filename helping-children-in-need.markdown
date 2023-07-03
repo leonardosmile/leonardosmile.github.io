@@ -20,11 +20,10 @@ Below is a table that summaries the donations we have received up to now.
 | Donations after Leonardo's wake | $11,830 |
 | Donation by Enrico |   $5,000 |
 | Donation received in December 2020 |   $3,746 |
-| Donation received in January 2021 |   $1,632 |
 | Donation received in 2021 |   $6,373 |
 | Donation received in March 2022 |   $2062 |
 | Donation received in 2023 plus from Pinky's book translation: |   $2,210 |
-| Total | $31,853|
+| Total | $31,221|
 
 Since November 2020, we started donating VND3,000,000 (or SGD170) per month to support 10 families in two villages, in Hanoi and Phu Tho province. From January 2021, thanks to a long-term commitment from a friend, we also started making an additional VND2,000,000 (or SDG115 per month to support a family in Thanh Hoa village. A one-time donation of VND26,000,000 (or SGD1,500) and VND8,600,000 (or SGD500) was sent to those villages for buying new clothes and food for the children for the Lunar New Year 2021.
 
